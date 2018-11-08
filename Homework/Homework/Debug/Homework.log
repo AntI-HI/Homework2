@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\kamil\source\repos\homework\homework\main.cpp(21): warning C4101: 'WofRect': unreferenced local variable
+c:\users\kamil\source\repos\homework\homework\main.cpp(21): warning C4101: 'LofTri': unreferenced local variable
+c:\users\kamil\source\repos\homework\homework\main.cpp(21): warning C4101: 'HofRect': unreferenced local variable
+c:\users\kamil\source\repos\homework\homework\main.cpp(21): warning C4101: 'Radius': unreferenced local variable
+  Homework.vcxproj -> C:\Users\Kamil\source\repos\Homework\Debug\Homework.exe
